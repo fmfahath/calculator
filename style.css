@@ -36,6 +36,7 @@ form input{
     pointer-events: none;
 }
 
+
 .buttons{
     display: flex;
     flex-wrap: wrap;
