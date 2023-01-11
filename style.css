@@ -35,3 +35,15 @@ form input{
     text-align: right;
     pointer-events: none;
 }
+
+button{
+    flex: 0 0 22%;
+    margin: 5px 0;
+    border: 1px solid #000;
+    width: 60px;
+    height: 52px;
+    font-size: 22px;
+    font-weight: 60rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
