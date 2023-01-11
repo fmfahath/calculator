@@ -22,7 +22,10 @@
     }
    });
    
-    
+    //clear button
+    clear.addEventListener('click', function(e){
+        screen.value = "";
+    }) 
 
 
 
